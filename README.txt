@@ -1,6 +1,6 @@
-# 如何使用你的 Twitter 封存檔
+# @siuying Twitter Archive
 
-使用你的 Twitter 封存資料最簡單的方式就是透過此檔案提供的庫存瀏覽介面。只要雙擊根目錄的 `index.html` 你就能夠在你的瀏覽器裡瀏覽你的全部推文歷史。
+Offline backup of my tweets at [@siuying](https://twitter.com/siuying)��過此檔案提供的庫存瀏覽介面。只要雙擊根目錄的 `index.html` 你就能夠在你的瀏覽器裡瀏覽你的全部推文歷史。
 
 ---
 
